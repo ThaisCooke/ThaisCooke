@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Thais 
+
+
+-  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Thais 
 - 👀 I’m interested in learning everyday. I am addicted to Data Analysis.
 - 🌱 I’m currently learning SQL and Tableau
 
 - 📫 How to find me: 
  
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/thaiscooke/
+
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.LinkedIn.com/ThaisCooke
+ 
  
  **Skills**:
  
@@ -13,6 +17,8 @@
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  
  ![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+ ![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
  
  
  
