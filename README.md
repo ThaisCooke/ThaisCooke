@@ -2,6 +2,7 @@
 
 -  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Thais 
 - 👀 I’m interested in learning everyday. I am addicted to Data Analysis.
+- 📊 I have a Healthcare backgorund, started transitioning into Data Analytics in December 2021
 - 🌱 I’m currently learning SQL and Tableau
 
 - 📫 How to find me: 
