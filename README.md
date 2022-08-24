@@ -2,7 +2,7 @@
 
 -  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Thais 
 
-
+<p>&nbsp;</p>
 
 ✨ **About Me in 30 secs**✨
 
