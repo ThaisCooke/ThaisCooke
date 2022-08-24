@@ -13,7 +13,7 @@
 - 📉 I have expereince in Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design and Development
 
 
-- 📫 How to find me: [LinkedIn](www.LinkedIn.com/ThaisCooke)
+- 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/thaiscooke/)
 
  
  
