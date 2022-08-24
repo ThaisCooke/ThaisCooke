@@ -21,15 +21,18 @@ www.LinkedIn.com/ThaisCooke
  
  
  
+ 
  💡**Skills**💡:
  
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
  
+
 - Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design and Development
  
  
  
- 
+
+
  📚**Courses and Certifications**:📚
  
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
