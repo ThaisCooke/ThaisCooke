@@ -42,32 +42,32 @@
  
  - **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
  
- -**NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
+ - **NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
  
- -**Aibnb Seattle**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/AirbnbSeattle_16587973599060/Dashboard1)
+ - **Aibnb Seattle**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/AirbnbSeattle_16587973599060/Dashboard1)
  
- -**BellaBeat Capstone Project**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/BellaBeat_Capstone_Project/BellabeatFitnessAnalysis)
+ - **BellaBeat Capstone Project**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/BellaBeat_Capstone_Project/BellabeatFitnessAnalysis)
  
- -**COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
+ - **COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
  
  <p>&nbsp;</p>
  
  
  👩‍💻**Projects on SQL**👩‍💻
 
--**Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner)
+- **Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner)
 
--**Pizza Runner**: Click [HERE](https://github.com/ThaisCooke/pizza_runner)
+- **Pizza Runner**: Click [HERE](https://github.com/ThaisCooke/pizza_runner)
 
--**Aibnb_NYC**: Click [HERE](https://github.com/ThaisCooke/NYC_airbnb)
+- **Aibnb_NYC**: Click [HERE](https://github.com/ThaisCooke/NYC_airbnb)
 
--**Space Missions**: Click [HERE](https://github.com/ThaisCooke/Space_missions)
+- **Space Missions**: Click [HERE](https://github.com/ThaisCooke/Space_missions)
 
--**Game of Thrones**: Click [HERE](https://github.com/ThaisCooke/GOT)
+- **Game of Thrones**: Click [HERE](https://github.com/ThaisCooke/GOT)
 
--**BellaBeat**: Click [HERE](https://github.com/ThaisCooke/Bellabeat)
+- **BellaBeat**: Click [HERE](https://github.com/ThaisCooke/Bellabeat)
 
--**COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject)
+- **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject)
 
 
 
