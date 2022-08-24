@@ -33,7 +33,7 @@ www.LinkedIn.com/ThaisCooke
  <p>&nbsp;</p>
 
 
- 📚**Courses and Certifications**:📚
+ 📚**Courses and Certifications**📚
  
  - Google Data Analytics Certification: completed June 2022
  
@@ -41,7 +41,11 @@ www.LinkedIn.com/ThaisCooke
  
 <p>&nbsp;</p>
  
-
+ ⚡**Projects**⚡
+ 
+ Spcae Challenge: click ![https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1][here]
+ 
+ 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=thaiscooke&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
