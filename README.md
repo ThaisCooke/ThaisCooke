@@ -35,7 +35,8 @@ www.LinkedIn.com/ThaisCooke
 
  📚**Courses and Certifications**:📚
  
- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+ - Google Data Analytics Certification: completed June 2022
+ 
  
  
 <p>&nbsp;</p>
