@@ -44,8 +44,12 @@ www.LinkedIn.com/ThaisCooke
  ⚡**Projects on Tableau**⚡
  
  **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
+ **NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
+ **Aibnb Seattle**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/AirbnbSeattle_16587973599060/Dashboard1)
+ **BellaBeat Capstone Project**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/BellaBeat_Capstone_Project/BellabeatFitnessAnalysis)
+ **COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
  
- 
+ <p>&nbsp;</p>
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=thaiscooke&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
