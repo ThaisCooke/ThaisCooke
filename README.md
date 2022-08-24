@@ -55,6 +55,9 @@
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=thaiscooke&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
+👩‍💻**Projects on SQL**👩‍💻
+
+**Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner)
 
 
 
