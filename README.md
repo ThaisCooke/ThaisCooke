@@ -10,6 +10,7 @@
 - 💉 I have a Healthcare background
 - 📊 I started transitioning into Data Analytics in December 2021, and I obtained the Google Data Analytics Certificate in June 2022
 - 🌱 I self-taught SQL and Tableau
+- 📉 I have expereince in Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design and Development
 
 
 - 📫 How to find me: 
@@ -27,9 +28,7 @@ www.LinkedIn.com/ThaisCooke
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
  
 
-- Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design and Development
- 
- 
+
  
 
 
