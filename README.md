@@ -10,7 +10,7 @@
 - 💉 I have a Healthcare background and started transitioning into Data Analytics in December 2021
 - 📊 I obtained the Google Data Analytics Certificate in June 2022
 - 🌱 I self-taught SQL and Tableau
-- 📉 I have experience in Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design and Development
+- 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
 
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/thaiscooke/)
