@@ -2,7 +2,7 @@
 
 -  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Thais 
 
-✨ ##About Me in 30 secs##✨
+✨ **About Me in 30 secs**✨
 
 - 👀 I’m addicted to Data Analysis and I love learning new skills
 - 💉 I have a Healthcare background, with 11 years of experience in that field
