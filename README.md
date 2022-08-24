@@ -20,7 +20,7 @@ www.LinkedIn.com/ThaisCooke
 
  
  
- 
+<p>&nbsp;</p>
  
  💡**Skills**💡:
  
@@ -30,7 +30,7 @@ www.LinkedIn.com/ThaisCooke
 - Google Sheets
 
 
- 
+ <p>&nbsp;</p>
 
 
  📚**Courses and Certifications**:📚
@@ -38,7 +38,7 @@ www.LinkedIn.com/ThaisCooke
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  
  
-
+<p>&nbsp;</p>
  
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=thaiscooke&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
