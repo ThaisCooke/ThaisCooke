@@ -43,7 +43,7 @@ www.LinkedIn.com/ThaisCooke
  
  ⚡**Projects**⚡
  
- Space Challenge: click [HERE]([https://www.google.com](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1))
+ Space Challenge: [I'm a reference-style link][Arbitrary case-insensitive reference text]
  
  
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=thaiscooke&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
