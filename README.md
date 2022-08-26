@@ -55,19 +55,19 @@
  
  👩‍💻**Projects on SQL**👩‍💻
 
-- **Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner)
+- **Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner/blob/main/code)
 
 - **Pizza Runner**: Click [HERE](https://github.com/ThaisCooke/pizza_runner)
 
-- **Aibnb_NYC**: Click [HERE](https://github.com/ThaisCooke/NYC_airbnb)
+- **Aibnb_NYC**: Click [HERE](https://github.com/ThaisCooke/NYC_airbnb/blob/main/airbnb)
 
-- **Space Missions**: Click [HERE](https://github.com/ThaisCooke/Space_missions)
+- **Space Missions**: Click [HERE](https://github.com/ThaisCooke/Space_missions/blob/main/space_missions)
 
-- **Game of Thrones**: Click [HERE](https://github.com/ThaisCooke/GOT)
+- **Game of Thrones**: Click [HERE](https://github.com/ThaisCooke/GOT/blob/main/SQLQueryGOT.sql)
 
-- **BellaBeat**: Click [HERE](https://github.com/ThaisCooke/Bellabeat)
+- **BellaBeat**: Click [HERE](https://github.com/ThaisCooke/Bellabeat/blob/main/capstoneproject)
 
-- **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject)
+- **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject/blob/main/COVID)
 
 
 
