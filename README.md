@@ -31,7 +31,7 @@
 
  📚**Courses and Certifications**📚
  
- - Google Data Analytics Certification: completed June 2022
+ - Google Data Analytics Certification
  
  
  
