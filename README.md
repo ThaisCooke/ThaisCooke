@@ -53,6 +53,8 @@
  
  
  👩‍💻**Projects on SQL**👩‍💻
+ 
+- **Cleaning Data in SQL**: Click [HERE](https://github.com/ThaisCooke/Nashville_Housing/blob/main/Data_Cleaning_SQL)
 
 - **Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner/blob/main/code)
 
