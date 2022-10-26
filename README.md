@@ -49,6 +49,8 @@
  
  - **COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
  
+ - **Interactive Tableau Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/HalloweenCandyAnalysis/Dashboard1)
+ 
  <p>&nbsp;</p>
  
  
@@ -69,6 +71,8 @@
 - **BellaBeat**: Click [HERE](https://github.com/ThaisCooke/Bellabeat/blob/main/capstoneproject)
 
 - **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject/blob/main/COVID)
+
+- **Halloween Candy Analysis**: Click [HERE](https://github.com/ThaisCooke/halloweencandy/blob/main/candy)
 
 
 
