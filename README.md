@@ -7,7 +7,7 @@
 ✨ **About Me in 30 secs**✨
 
 - 👀 I’m addicted to Data Analysis and I love learning new skills
-- 💉 I have a Healthcare background and started transitioning into Data Analytics in 2021
+- 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst
 - 🌱 I self-taught SQL and Tableau
 - 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
