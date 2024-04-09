@@ -6,9 +6,9 @@
 
 ✨ **About Me in 30 secs**✨
 
-- 👀 I’m addicted to Data Analysis and I love learning new skills
 - 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst
-- 🌱 I self-taught SQL and Tableau
+- - 👀 I love learning new skills
+- 🌱 I self-taught SQL and Tableau. Currently, I am pursuing more advanced topics in SQL, such as parameters, UDFs and Stored Procedures.
 - 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
 
@@ -37,10 +37,8 @@
  
 <p>&nbsp;</p>
  
- ⚡**Projects on Tableau**⚡
- 
- - **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
- 
+ ⚡**Projects on Tableau**⚡ 
+
  - **NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
  
  - **Aibnb Seattle**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/AirbnbSeattle_16587973599060/Dashboard1)
