@@ -7,7 +7,7 @@
 ✨ **About Me in 30 secs**✨
 
 - 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst
-- - 👀 I love learning new skills
+- 👀 I love learning new skills
 - 🌱 I self-taught SQL and Tableau. Currently, I am pursuing more advanced topics in SQL, such as parameters, UDFs and Stored Procedures.
 - 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
@@ -23,8 +23,7 @@
 - Microsoft SQL Server
 - Tableau
 - Microsoft Excel
-- Google Sheets
-
+- Python
 
  <p>&nbsp;</p>
 
