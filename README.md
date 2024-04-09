@@ -29,10 +29,7 @@
  <p>&nbsp;</p>
 
 
- 📚**Courses and Certifications**📚
- 
- - Google Data Analytics Certification
- 
+
  
  
 <p>&nbsp;</p>
